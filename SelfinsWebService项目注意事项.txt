@@ -1,10 +1,10 @@
+11111111111111111111111111111111111111111111111
+é¡¹ç›®  SelfinsWebService
 
-ÏîÄ¿  SelfinsWebService
-
-ÓÉÓÚxmlbeans-2.3.0.jar°üÌ«´óÎŞ·¨ÉÏ´«svn£¬
-ÏÂÔØµØÖ·£º
+ç”±äºxmlbeans-2.3.0.jaråŒ…å¤ªå¤§æ— æ³•ä¸Šä¼ svnï¼Œ
+ä¸‹è½½åœ°å€ï¼š
 http://10.7.187.217:8081/nexus/content/repositories/thirdparty/org/apache/xmlbeans/2.3.0/xmlbeans-2.3.0.jar
-maven ÏÂÔØµØÖ·
+maven ä¸‹è½½åœ°å€
 
 <dependency>
   <groupId>org.apache</groupId>
