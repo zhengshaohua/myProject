@@ -1,2 +1,99 @@
 11111111111111111111111111111111111111111111111
 22222222222222222222
+项目  SelfinsWebService
+
+由于xmlbeans-2.3.0.jar包太大无法上传svn，
+
+
+<dependency>
+  <groupId>org.apache</groupId>
+  <artifactId>xmlbeans</artifactId>
+  <version>2.3.0</version>
+</dependency>
+
+
+<dependency>
+  <groupId>org.apache</groupId>
+  <artifactId>xmlbeans</artifactId>
+  <version>2.3.0</version>
+</dependency>
+
+
+11111111111111111111111111111111111111111111111
+22222222222222222222
+
+
+<dependency>
+  <groupId>org.apache</groupId>
+  <artifactId>xmlbeans</artifactId>
+  <version>2.3.0</version>
+</dependency>
+
+
+<dependency>
+  <groupId>org.apache</groupId>
+  <artifactId>xmlbeans</artifactId>
+  <version>2.3.0</version>
+</dependency>
+
+
+11111111111111111111111111111111111111111111111
+22222222222222222222
+项目  SelfinsWebService
+
+
+
+<dependency>
+  <groupId>org.apache</groupId>
+  <artifactId>xmlbeans</artifactId>
+  <version>2.3.0</version>
+</dependency>
+
+
+<dependency>
+  <groupId>org.apache</groupId>
+  <artifactId>xmlbeans</artifactId>
+  <version>2.3.0</version>
+</dependency>
+
+
+11111111111111111111111111111111111111111111111
+22222222222222222222
+项目  SelfinsWebService
+
+
+<dependency>
+  <groupId>org.apache</groupId>
+  <artifactId>xmlbeans</artifactId>
+  <version>2.3.0</version>
+</dependency>
+
+
+<dependency>
+  <groupId>org.apache</groupId>
+  <artifactId>xmlbeans</artifactId>
+  <version>2.3.0</version>
+</dependency>
+
+
+
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+qqqqqqqqqqqqqqqqqqqqqqqqq
+
+
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+qqqqqqqqqqqqqqqqqqqqqqqqq
+
+ttttttttttttttttttttttttt
+
+
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+qqqqqqqqqqqqqqqqqqqqqqqqq
+
+ttttttttttttttttttttttttt
+
+
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+qqqqqqqqqqqqqqqqqqqqqqqqq
+
+ttttttttttttttttttttttttt
